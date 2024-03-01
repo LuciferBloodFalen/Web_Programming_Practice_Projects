@@ -12,4 +12,4 @@ made using HTML, CSS and JavaScript.....
 
 ---
 
-***Author: Lucifer BloodFallen***
+**_Author: Lucifer BloodFallen_**
