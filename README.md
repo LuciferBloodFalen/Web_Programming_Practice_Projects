@@ -2,6 +2,14 @@
 
 ## USING HTML, CSS & JAVASCRIPT
 
-Small projects made using HTML, CSS and JavaScript in order to test and display skills I'm currently learning.
+Basic & beginner friendly projects
+made using HTML, CSS and JavaScript.....
 
-**Author: Lucifer BloodFallen**
+---
+
+1. Display Theme
+1. Layout
+
+---
+
+***Author: Lucifer BloodFallen***
